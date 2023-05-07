@@ -1,4 +1,4 @@
-# Data-mining using Weka
+# Data mining using Weka
 
 # Abstract
 
