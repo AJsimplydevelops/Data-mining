@@ -23,7 +23,7 @@ With 16 attributes (bills that were voted on), and 1 target variable (class)
 ![image](https://user-images.githubusercontent.com/78631693/236654582-8560151d-c2c5-4a8d-9c5b-2f63372aec4d.png)
 
 # Classification using decision tree
-In our conclusion, after 3 runs using 10-fold cross validation and different number of attributes. All three classifiers provided 95%+accuracy. However, it's better to select 3 attributes as the training tree is smaller, prevents overfitting
+In our conclusion, after 3 runs using 10-fold cross validation and different number of attributes. All three classifiers provided 95%+accuracy. However, it's better to select 3 attributes as the training tree is smaller, and prevents overfitting.
 
 ![image](https://user-images.githubusercontent.com/78631693/236654717-01075a73-13a6-4520-acb1-16fc30123b01.png)
 
