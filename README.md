@@ -2,7 +2,7 @@
 
 # Abstract
 
-In this report, the purpose of this project is to perform data mining tasks using a collection of machine learning algorithms from WEKA. Furthermore, using a real-world dataset from the 1984 United States congressional voting records database. As it pertains to the file; vote_arff.arff
+In this report, the purpose of this project is to perform data mining tasks for data analysis using a collection of machine learning algorithms from WEKA. Furthermore, using a real-world dataset from the 1984 United States congressional voting records database. As it pertains to the file; vote_arff.arff
 
 # Tasks
 - provide a context of use of the dataset by providing the classification task, and dataset characteristics. 
